@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/pl/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/pl/blog/feed.xml</link>
+    <description></description>
+    <language>pl</language>
+     <atom:link href="https://www.prestashop.com/pl/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>PrestaShop (e)Commerce Week: międzynarodowy tydzień konferencji online</title>
+    <link>https://www.prestashop.com/pl/blog/prestashop-ecommerce-week-2020</link>
+    <description>Jako uprzywilejowany partner w cyfrowej transformacji przedsiębiorstw, PrestaShop ma przyjemność zorganizować </description>
+     <pubDate>Thu, 11 Jun 2020 09:59:45 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/prestashop-ecommerce-week-2020</guid>
+  </item>
+  <item>
+    <title>Wybór 10 modułów do optymalizacji obsługi klienta w Twoim sklepie internetowym</title>
+    <link>https://www.prestashop.com/pl/blog/wspolczynnik-konwersji-klienta</link>
+    <description>Strona e-commerce to o wiele więcej niż tylko katalog online, to także przyjemność z przeglądania stron internetowych dl</description>
+     <pubDate>Mon, 08 Jun 2020 14:15:29 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/wspolczynnik-konwersji-klienta</guid>
+  </item>
+  <item>
+    <title>Zwiększenie współczynnika konwersji dzięki lepszemu zarządzaniu koszykami zakupowymi</title>
+    <link>https://www.prestashop.com/pl/blog/koszyk-kurs-2020</link>
+    <description>W przeciwieństwie do znanego powiedzenia, jeśli chodzi o e-commerce, lepiej jest, aby klienci postawili wszystko na jedn</description>
+     <pubDate>Mon, 11 May 2020 15:49:39 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/koszyk-kurs-2020</guid>
+  </item>
+  <item>
+    <title>COVID-19: Najważniejsze dane dotyczące handlu e-commerce</title>
+    <link>https://www.prestashop.com/pl/blog/najwazniejsze-e-commerce-coronavirus</link>
+    <description>Po fazach „paniki zakupów” skoncentrowanych na zaspokojeniu podstawowych potrzeb, działalność dystrybucyjna na całym świecie nadal jest pod znacznym wpływem kryzysu wywołanego przez koronawirusa.</description>
+     <pubDate>Mon, 27 Apr 2020 17:45:27 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/najwazniejsze-e-commerce-coronavirus</guid>
+  </item>
+  <item>
+    <title>Jak przenieść PrestaShop na nowy serwer?</title>
+    <link>https://www.prestashop.com/pl/jak-przeniesc-prestashop-na-nowy-serwer</link>
+    <description>
+Czy planujesz przenieść PrestaShop na nowy serwer, który według Ciebie oferuje lepsze usługi?</description>
+     <pubDate>Thu, 26 Mar 2020 16:23:31 +0100</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/jak-przeniesc-prestashop-na-nowy-serwer</guid>
+  </item>
+  <item>
+    <title>Niezbędne moduły PrestaShop 2020</title>
+    <link>https://www.prestashop.com/pl/blog/prestashop-awards-2020</link>
+    <description>Zespół PrestaShop ma przyjemność przedstawić Ci nasz wybór modułów i tematów dla Twojego sklepu internetowego.</description>
+     <pubDate>Mon, 09 Mar 2020 18:00:56 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/prestashop-awards-2020</guid>
+  </item>
+  <item>
+    <title>PrestaShop prezentuje wiele nowych funkcji dla Twojego sklepu internetowego</title>
+    <link>https://www.prestashop.com/pl/blog/nowosci-prestashop-2020</link>
+    <description>Dużo nowych funkcji, które pomogą handlowcom lepiej sprzedawać</description>
+     <pubDate>Fri, 06 Mar 2020 17:14:31 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/nowosci-prestashop-2020</guid>
+  </item>
+  <item>
+    <title>Odkryj nowe perspektywy budowania stron</title>
+    <link>https://www.prestashop.com/pl/blog/perspektywy-budowania</link>
+    <description>Obecnie coraz większa liczba użytkowników uważa, że wygląd strony internetowej decyduje o tym, czy należy ufać firmie, czy nie. Strona główna stanowi pod tym kątem bardzo ważny element.</description>
+     <pubDate>Fri, 28 Feb 2020 15:07:23 +0100</pubDate>
+ <dc:creator>Janos Biro PL</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/perspektywy-budowania</guid>
+  </item>
+  <item>
+    <title>Najlepsze praktyki w automatyzacji marketingu</title>
+    <link>https://www.prestashop.com/pl/blog/najlepsze-praktyki-w-automatyzacji-marketingu</link>
+    <description>Automatyzacja marketingu to obecnie coraz popularniejsze zjawisko, które pozwala firmom optymalizować koszty oraz czas poświęcane na wzrost efektywności marketingu.</description>
+     <pubDate>Mon, 03 Feb 2020 12:21:57 +0100</pubDate>
+ <dc:creator>Łukasz Gwara</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/najlepsze-praktyki-w-automatyzacji-marketingu</guid>
+  </item>
+  <item>
+    <title>Dostawa przyszłości: jak może wyglądać?</title>
+    <link>https://www.prestashop.com/pl/blog/dostawa-przyszlosci-jak-moze-wygladac</link>
+    <description>Od sprawdzonych w Chinach czy Stanach Zjednoczonych rozwiązań z zakresu robotyki po optymalizację zasięgu terytorialnego - któ</description>
+     <pubDate>Tue, 28 Jan 2020 16:58:55 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/dostawa-przyszlosci-jak-moze-wygladac</guid>
+  </item>
+  </channel>
+</rss>

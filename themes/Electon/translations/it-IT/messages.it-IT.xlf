@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/html/prestashop/PRS10/PRS100235/themes/TimeWatch/templates/catalog/listing/category.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="f73cc399b5ce12735a57f03414f09ef9">
+        <source>Subcategories</source>
+        <target>Subcategories</target>
+        <note>Context:
+File: /var/www/html/prestashop/PRS10/PRS100235/themes/TimeWatch/templates/catalog/listing/category.tpl:47</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/html/prestashop/PRS10/PRS100235/themes/TimeWatch/templates/catalog/_partials/products-top.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="5174d1309f275ba6f275db3af9eb3e18">
+        <source>Grid</source>
+        <target>Grid</target>
+        <note>Context:
+File: /var/www/html/prestashop/PRS10/PRS100235/themes/TimeWatch/templates/catalog/_partials/products-top.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="4ee29ca12c7d126654bd0e5275de6135">
+        <source>List</source>
+        <target>Lista</target>
+        <note>Context:
+File: /var/www/html/prestashop/PRS10/PRS100235/themes/TimeWatch/templates/catalog/_partials/products-top.tpl:30</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/html/prestashop/PRS10/PRS100235/themes/TimeWatch/templates/index.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="9ff0635f5737513b1a6f559ac2bff745">
+        <source>New products</source>
+        <target>New products</target>
+        <note>Context:
+File: /var/www/html/prestashop/PRS10/PRS100235/themes/TimeWatch/templates/index.tpl:37</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

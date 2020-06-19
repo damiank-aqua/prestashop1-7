@@ -1,0 +1,216 @@
+name: Electon
+display_name: Electon - Electronic Store
+version: 2.0.1
+theme_key: 6e199604753f7ebc84114fcdf5aa5e74
+author:
+  name: "Codezeel"
+  email: "support@codezeel.com"
+  url: "http://www.codezeel.com"
+
+meta:
+  compatibility:
+      from: 1.7.0.0
+      to: ~
+
+  available_layouts:
+    layout-full-width:
+      name: Full Width
+      description: No side columns, ideal for distraction-free pages such as product pages.
+    layout-both-columns:
+      name: Three Columns
+      description: One large central column and 2 side columns.
+    layout-left-column:
+      name: Two Columns, small left column
+      description: Two columns with a small left column
+    layout-right-column:
+      name: Two Columns, small right column
+      description: Two columns with a small right column
+
+assets:
+  # If you're using this theme as child and you want to load
+  # the parent theme assets, uncomment this line.
+#  use_parent_assets: true
+
+  # The following lines are showing how to load assets in your page
+  # Uncomment and change value to start loading css or js files
+   css:
+     all:
+       - id: fontawesome-lib-style
+         path: assets/css/font-awesome.css
+#    product:
+#      - id: product-style
+#        path: assets/css/product.css
+#        media: all
+#        priority: 200
+   js:
+     all:
+       - id: owl-carousel-lib
+         path: assets/js/owl.carousel.js
+         priority: 310
+         position: bottom
+       - id: totalstorage-lib
+         path: assets/js/totalstorage.js
+         priority: 320
+         position: bottom
+       - id: lightbox-lib
+         path: assets/js/lightbox.js
+         priority: 330
+         position: bottom
+#    cart:
+#      - id: cat-extra-lib
+#        path: assets/js/cart-lib.js
+
+
+global_settings:
+  configuration:
+    PS_IMAGE_QUALITY: png
+  modules:
+   to_disable:
+     - ps_imageslider
+   to_enable:
+     - ps_linklist
+  hooks:
+    modules_to_hook:
+      displayNav1:
+        - ps_languageselector
+        - ps_currencyselector
+      displayNav2:
+      displayNavFullWidth:
+        - ps_mainmenu
+      displayTop:
+        - ps_shoppingcart
+        - ps_customersignin
+        - ps_searchbar
+      displayTopColumn:
+        - cz_imageslider
+        - cz_subbannercmsblock
+      displayCzNew:
+      displayHomeTop:
+      displayHome:
+        - cz_categoryslider
+        - cz_offercmsblock
+        - cz_featuredproducts
+        - cz_bannercmsblock
+        - cz_bestsellers
+        - cz_customcmsblock1
+        - cz_specials
+      displayFooterBefore:
+        - cz_servicecmsblock
+      displayFooter:
+        - ps_customeraccountlinks
+        - ps_linklist
+        - ps_contactinfo
+        - ps_emailsubscription
+        - ps_socialfollow
+      displayFooterAfter:
+        - cz_blocklink
+        - cz_footercmsblock
+        - cz_blockpaymentlogo
+      displayLeftColumn:
+        - cz_verticalmenu
+        - ps_facetedsearch
+        - cz_newproducts
+        - cz_brandlogo
+        - cz_leftbannercmsblock
+        - cz_leftbanner
+        - cz_testimonialcmsblock
+      displayLeftColumnProduct:
+        - cz_verticalmenu
+        - cz_newproducts
+        - ps_facetedsearch
+        - cz_leftbanner
+      displayCzHoverImage:
+        - cz_imagehover
+      displaySearch:
+        - ps_searchbar
+      displayProductAdditionalInfo:
+        - ps_sharebuttons
+      displayReassurance:
+        - blockreassurance
+  image_types:
+    cart_default:
+      width: 100
+      height: 104
+      scope: [products]
+    small_default:
+      width: 100
+      height: 104
+      scope: [products, categories, manufacturers, suppliers]
+    medium_default:
+      width: 435
+      height: 456
+      scope: [products, manufacturers, suppliers]
+    home_default:
+      width: 236
+      height: 247
+      scope: [products]
+    large_default:
+      width: 764
+      height: 800
+      scope: [products, manufacturers, suppliers]
+    category_default:
+      width: 1300
+      height: 200
+      scope: [categories]
+    category_thumb_default:
+      width: 150
+      height: 150
+      scope: [categories]
+    stores_default:
+      width: 170
+      height: 115
+      scope: [stores]
+
+theme_settings:
+  default_layout: layout-left-column
+  layouts:
+    category: layout-left-column
+    checkout: layout-left-column
+    best-sales: layout-left-column
+    new-products: layout-left-column
+    prices-drop: layout-left-column
+    contact: layout-left-column
+    manufacturer: layout-left-column
+    password: layout-left-column
+    sitemap: layout-left-column
+    supplier: layout-left-column
+    address: layout-left-column
+    addresses: layout-left-column
+    authentication: layout-left-column
+    discount: layout-left-column
+    history: layout-left-column
+    identity: layout-left-column
+    my-account: layout-left-column
+    order-follow: layout-left-column
+    order-slip: layout-left-column
+    order: layout-left-column
+    search: layout-left-column
+    stores: layout-left-column
+    guest-tracking: layout-left-column
+    cms: layout-left-column
+    module-psblog-blog: layout-left-column
+    module-psblog-category: layout-left-column
+    module-psblog-list: layout-left-column
+
+dependencies:
+  modules:
+    - cz_imageslider
+    - cz_bannercmsblock
+    - cz_newproducts
+    - cz_featuredproducts
+    - cz_bestsellers
+    - cz_specials
+    - cz_servicecmsblock
+    - cz_brandlogo
+    - cz_leftbanner
+    - cz_footercmsblock
+    - cz_blockpaymentlogo
+    - cz_imagehover
+    - cz_subbannercmsblock
+    - cz_testimonialcmsblock
+    - cz_categoryslider
+    - cz_customcmsblock1
+    - cz_blocklink
+    - cz_leftbannercmsblock
+    - cz_verticalmenu
+    - cz_offercmsblock
