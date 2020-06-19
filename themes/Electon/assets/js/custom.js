@@ -138,6 +138,80 @@ $(document).ready(function(){
 		});	
 	});
 
+//		@im
+
+
+
+var $categoryDom = '<div id="subcategories">' +
+	'<ul class="clearfix">' +
+		'<li>' +
+			'<div class="subcategory-image">' +
+			'<a href="http://rainpolska.gevax.pl/11-zraszacze" title="ZRASZACZE" class="img">' +
+			'<img class="replace-2x" src="http://rainpolska.gevax.pl/c/11-category_thumb_default/zraszacze.jpg" alt="ZRASZACZE">' +
+			'</a>' +
+			'</div>' +
+			'<h5><a class="subcategory-name" href="http://rainpolska.gevax.pl/11-zraszacze">ZRASZACZE</a></h5>' +
+		'</li>' +
+		'<li>' +
+			'<div class="subcategory-image">' +
+			'<a href="http://rainpolska.gevax.pl/12-czujniki" title="CZUJNIKI" class="img">' +
+			'<img class="replace-2x" src="http://rainpolska.gevax.pl/c/12-category_thumb_default/czujniki.jpg" alt="CZUJNIKI">' +
+			'</a>' +
+			'</div>' +
+			'<h5><a class="subcategory-name" href="http://rainpolska.gevax.pl/12-czujniki">CZUJNIKI</a></h5>' +
+		'</li>' +
+		'<li>' +
+			'<div class="subcategory-image">' +
+			'<a href="http://rainpolska.gevax.pl/13-elektrozawory" title="ELEKTROZAWORY" class="img">' +
+			'<img class="replace-2x" src="http://rainpolska.gevax.pl/c/13-category_thumb_default/elektrozawory.jpg" alt="ELEKTROZAWORY">' +
+			'</a>' +
+			'</div>' +
+			'<h5><a class="subcategory-name" href="http://rainpolska.gevax.pl/13-elektrozawory">ELEKTROZAWORY</a></h5>' +
+		'</li>' +
+		'<li>' +
+			'<div class="subcategory-image">' +
+			'<a href="http://rainpolska.gevax.pl/14-sterowniki-nakranowe" title="STEROWNIKI NAKRANOWE" class="img">' +
+			'<img class="replace-2x" src="http://rainpolska.gevax.pl/c/14-category_thumb_default/sterowniki-nakranowe.jpg" alt="STEROWNIKI NAKRANOWE">' +
+			'</a>' +
+			'</div>' +
+			'<h5><a class="subcategory-name" href="http://rainpolska.gevax.pl/14-sterowniki-nakranowe">STEROWNIKI NAKRANOWE</a></h5>' +
+		'</li>' +
+		'<li>' +
+			'<div class="subcategory-image">' +
+			'<a href="http://rainpolska.gevax.pl/15-sterowniki-bateryjne" title="STEROWNIKI BATERYJNE" class="img">' +
+			'<img class="replace-2x" src="http://rainpolska.gevax.pl/c/15-category_thumb_default/sterowniki-bateryjne.jpg" alt="STEROWNIKI BATERYJNE">' +
+			'</a>' +
+			'</div>' +
+			'<h5><a class="subcategory-name" href="http://rainpolska.gevax.pl/15-sterowniki-bateryjne">STEROWNIKI BATERYJNE</a></h5>' +
+		'</li>' +
+		'<li>' +
+			'<div class="subcategory-image">' +
+			'<a href="http://rainpolska.gevax.pl/16-sterowniki-sieciowe" title="STEROWNIKI SIECIOWE" class="img">' +
+			'<img class="replace-2x" src="http://rainpolska.gevax.pl/c/16-category_thumb_default/sterowniki-sieciowe.jpg" alt="STEROWNIKI SIECIOWE">' +
+			'</a>' +
+			'</div>' +
+			'<h5><a class="subcategory-name" href="http://rainpolska.gevax.pl/16-sterowniki-sieciowe">STEROWNIKI SIECIOWE</a></h5>' +
+		'</li>' +
+		'<li>' +
+			'<div class="subcategory-image">' +
+			'<a href="http://rainpolska.gevax.pl/17-akcesoria" title="AKCESORIA" class="img">' +
+			'<img class="replace-2x" src="http://rainpolska.gevax.pl/c/17-category_thumb_default/akcesoria.jpg" alt="AKCESORIA">' +
+			'</a>' +
+			'</div>' +
+			'<h5><a class="subcategory-name" href="http://rainpolska.gevax.pl/17-akcesoria">AKCESORIA</a></h5>' +
+		'</li>' +
+		'<li>' +
+			'<div class="subcategory-image">' +
+			'<a href="http://rainpolska.gevax.pl/18-armatura" title="ARMATURA" class="img">' +
+			'<img class="replace-2x" src="http://rainpolska.gevax.pl/c/18-category_thumb_default/armatura.jpg" alt="ARMATURA">' +
+			'</a>' +
+			'</div>' +
+			'<h5><a class="subcategory-name" href="http://rainpolska.gevax.pl/18-armatura">ARMATURA</a></h5>' +
+		'</li>' +
+	'</ul>' +
+	'</div>';
+
+	$('.header-top .menu .sub-menu').html($categoryDom);
 	
 });
 
