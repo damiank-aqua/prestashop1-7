@@ -36,8 +36,6 @@
       </a>
     {/block}
 
-    
-
     <div class="outer-functional">
        	<div  class="functional-buttons">
 			

@@ -142,7 +142,7 @@ $(document).ready(function(){
 
 
 
-var $categoryDom = '<div id="subcategories">' +
+var $categoryDom = '<div id="subcategories" class="subcategories-top">' +
 	'<ul class="clearfix">' +
 		'<li>' +
 			'<div class="subcategory-image">' +
