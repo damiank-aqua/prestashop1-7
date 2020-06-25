@@ -212,6 +212,12 @@ var $categoryDom = '<div id="subcategories" class="subcategories-top">' +
 	'</div>';
 
 	$('.header-top .menu .sub-menu').html($categoryDom);
+
+	var $categoryHeader = '<h2 class="products-section-title text-uppercase"><span>Kategorie Sklepu</span></h2>';
+
+	$('.page-home').append($categoryHeader);
+
+	$('.page-home').append($categoryDom);
 	
 });
 

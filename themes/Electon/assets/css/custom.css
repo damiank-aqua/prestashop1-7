@@ -265,7 +265,17 @@
     yellow: #fed641
 */
 /* Blue background */
-.header-inner-top, #header .header-inner-top.fixed, #left-column .block .block_title, #right-column .block .block_title, .tabs .nav-tabs .nav-link:hover, .tabs .nav-tabs .nav-link.active, .customNavigation a, #footer{
+.header-inner-top,
+#header .header-inner-top.fixed,
+#left-column .block .block_title,
+#right-column .block .block_title,
+.tabs .nav-tabs .nav-link:hover,
+.tabs .nav-tabs .nav-link.active,
+.customNavigation a,
+#footer,
+.pagination a,
+#blockcart-modal .cart-content button
+{
     background: #1f8bcb;   
 }
 /* Yellow background */
@@ -286,12 +296,18 @@
 #right-column #czverticalmenublock .block_content,
 .btn-primary,
 .product-quantity .add .add-to-cart,
-.checkout.cart-detailed-actions a.btn.btn-primary
+.checkout.cart-detailed-actions a.btn.btn-primary,
+#blockcart-modal .cart-content button
 {
     border-color: #fed641;
 }
 /* Blue border */
-.tabs .nav-tabs .nav-link:hover, .tabs .nav-tabs .nav-link.active, .customNavigation a{
+.tabs .nav-tabs .nav-link:hover,
+.tabs .nav-tabs .nav-link.active,
+.customNavigation a,
+.pagination a,
+#blockcart-modal .cart-content button
+{
     border-color: #1f8bcb;
 }
 /* Hide */
@@ -303,7 +319,8 @@
     color: #eee;
 }
 /* Blue color */
-.footer-after, #footer .block_newsletter .sub-title{
+.footer-after,
+#footer .block_newsletter .sub-title {
     color: #1f8bcb;
 }
 .header-inner-top{
@@ -353,9 +370,14 @@
     padding: 0;
 }
 .header-top .menu > .top-menu,
-.products .product-title,
-.products .product-price-and-shipping, .product-price{
+.grid .product-title,
+.grid .product-price-and-shipping,
+#index .product-title,
+#index .product-price-and-shipping{
     text-align: center;
+}
+.products .product-price-and-shipping, .product-price {
+    margin: 24px 0 19px;
 }
 /* Text upp */
 .breadcrumb{
@@ -382,10 +404,26 @@
     z-index: 1;
 }
 /* display: none */
-.tax-shipping-delivery-label, .pp-right-column .product-reference {
+.tax-shipping-delivery-label {
     display: none !important;
 }
 .product-miniature .price,
 .product-actions .current-price{
     padding: 10px;
+}
+.featured-products{
+    padding: 100px 0 60px;
+}
+.products .product-title a,
+.productpage_title, .quickview h1.h1,
+.products-section-title,
+.btn-primary,
+.btn-secondary,
+.btn-tertiary,
+.tabs .nav-tabs .nav-link,
+#blockcart-modal .cart-products-count{
+    text-transform: uppercase !important;
+}
+#blockcart-modal .modal-dialog {
+    max-width: 1200px;
 }
