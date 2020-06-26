@@ -215,9 +215,19 @@ var $categoryDom = '<div id="subcategories" class="subcategories-top">' +
 
 	var $categoryHeader = '<h2 class="products-section-title text-uppercase"><span>Kategorie Sklepu</span></h2>';
 
-	$('.page-home').append($categoryHeader);
+	if($('.page-home').length) {
 
-	$('.page-home').append($categoryDom);
+		$('.page-home').append($categoryHeader);
+
+		$('.page-home').append($categoryDom);
+
+	}
+
+	if($('#product').length) {
+
+		$('.layout-left-column #content-wrapper').removeClass('col-sm-8 col-md-9').css('width', '100%');
+
+	}
 	
 });
 

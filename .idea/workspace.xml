@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Electon/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/assets/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Electon/assets/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/assets/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Electon/templates/catalog/_partials/product-add-to-cart.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/templates/catalog/_partials/product-add-to-cart.tpl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,8 @@
       <workItem from="1592809018926" duration="7343000" />
       <workItem from="1592827390608" duration="904000" />
       <workItem from="1593065916666" duration="85000" />
-      <workItem from="1593067237176" duration="8704000" />
+      <workItem from="1593067237176" duration="8730000" />
+      <workItem from="1593151363650" duration="5777000" />
     </task>
     <task id="LOCAL-00001" summary="Category">
       <created>1592574530688</created>
@@ -66,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592826420475</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Category">
+      <created>1593090105067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593090105067</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,10 +86,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Category" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="0" key="CommitChangelistDialog2" timestamp="1592826415717">
+    <state x="585" y="0" key="CommitChangelistDialog2" timestamp="1593090100746">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1592826415717" />
+    <state x="585" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593090100746" />
     <state x="797" y="398" key="Github.ShareDialog" timestamp="1592553148046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -93,9 +102,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="864" y="138" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593067462310" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592826422175">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1593090106372">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1592826422175" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593090106372" />
   </component>
 </project>

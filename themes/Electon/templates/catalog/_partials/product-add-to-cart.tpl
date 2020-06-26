@@ -23,7 +23,10 @@
  * International Registered Trademark & Property of PrestaShop SA
  *}
 <div class="product-add-to-cart">
+
   {if !$configuration.is_catalog}
+
+  <div class="im-stock">Stan magazynowy: <span>dostępny</span></div>
    <!-- <span class="control-label">{l s='Quantity' d='Shop.Theme.Catalog'}</span>-->
     {block name='product_quantity'}
       <div class="product-quantity">
