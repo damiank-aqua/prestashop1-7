@@ -32,7 +32,12 @@
   <section id="content" class="page-content page-cms page-cms-{$cms.id}">
 
     {block name='cms_content'}
-      {$cms.content nofilter}
+      {if $cms.id eq 3}
+        {$html = 'http://regulamin.aqua.net.pl?id=rainpolska'|file_get_contents}
+        {$html|unescape: "html" nofilter}
+      {else}
+        {$cms.content nofilter}
+      {/if}
     {/block}
 
     {block name='hook_cms_dispute_information'}

@@ -316,8 +316,9 @@
 .page-not-found,
 #_mobile_main_menu,
 .subcategory-heading,
-#product #left-column{
-    display: none;   
+#product #left-column,
+#main .page-header{
+    display: none;
 }
 /* White color */
 .footer-container li a, .footer-container li{

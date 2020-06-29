@@ -22,10 +22,26 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  * International Registered Trademark & Property of PrestaShop SA
  *}
-  <div class="user-info dropdown js-dropdown">
-  	<span class="user-info-title expand-more _gray-darker" data-toggle="dropdown">
-      <span class="account_text">{l s='My Account' d='Shop.Theme.Global'}</span>
-      <span class="account_desc">{l s='Login - Register' d='Shop.Theme.Global'}</span>
+{*  <div class="user-info dropdown js-dropdown">*}
+
+      <div class="user-info">
+  	<span class="user-info-title expand-more _gray-darker" style="padding-left: 20px">
+      <span class="account_text">
+
+	  <a
+              class="dropdown-item"
+              href="{$my_account_url}"
+              title="{l s='Log in to your customer account' d='Shop.Theme.Customeraccount'}"
+              rel="nofollow"
+              style="padding-top: 10px; color: #fff;"
+      >
+{*          <span>{l s='Sign in' d='Shop.Theme.Actions'}</span>*}
+          Twoje konto
+      </a>
+          <br>
+{*          {l s='My Account' d='Shop.Theme.Global'}*}
+      </span>
+{*      <span class="account_desc">{l s='Login - Register' d='Shop.Theme.Global'}</span>*}
     </span>
     <ul class="dropdown-menu">
 	{if $logged}

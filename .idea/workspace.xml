@@ -4,8 +4,8 @@
     <list default="true" id="c7ca8b4e-0b38-4320-81e3-3f2033aeb409" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Electon/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/assets/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Electon/assets/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/assets/js/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Electon/templates/catalog/_partials/product-add-to-cart.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/templates/catalog/_partials/product-add-to-cart.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Electon/modules/ps_customersignin/ps_customersignin.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/modules/ps_customersignin/ps_customersignin.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Electon/templates/cms/page.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/templates/cms/page.tpl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,9 @@
       <workItem from="1592827390608" duration="904000" />
       <workItem from="1593065916666" duration="85000" />
       <workItem from="1593067237176" duration="8730000" />
-      <workItem from="1593151363650" duration="5777000" />
+      <workItem from="1593151363650" duration="5852000" />
+      <workItem from="1593175397038" duration="78000" />
+      <workItem from="1593415584495" duration="11323000" />
     </task>
     <task id="LOCAL-00001" summary="Category">
       <created>1592574530688</created>
@@ -75,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593090105067</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finally source layout">
+      <created>1593175190260</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593175190260</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,13 +92,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Category" />
-    <option name="LAST_COMMIT_MESSAGE" value="Category" />
+    <MESSAGE value="Finally source layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally source layout" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="0" key="CommitChangelistDialog2" timestamp="1593090100746">
+    <state x="585" y="0" key="CommitChangelistDialog2" timestamp="1593175185174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593090100746" />
+    <state x="585" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593175185174" />
     <state x="797" y="398" key="Github.ShareDialog" timestamp="1592553148046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -102,9 +112,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="864" y="138" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593067462310" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1593090106372">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1593175191999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593090106372" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593175191999" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593426587219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593426587219" />
   </component>
 </project>
