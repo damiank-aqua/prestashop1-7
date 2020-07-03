@@ -72,6 +72,7 @@
 					</div>
 				</div>				
 			</div>
+			<div class="support-person">POMOC I DORADZTWO: <a href="tel:+48684511181">68 451 11 81</a>, <a href="mailto:kontakt@rainpolska.pl">kontakt@rainpolska.pl</a></div>
 		</div>
 		<div class="header-top-inner">
 			<div class="container">

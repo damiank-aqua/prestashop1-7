@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7ca8b4e-0b38-4320-81e3-3f2033aeb409" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/modules/im_merchant/im_merchant.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/im_merchant/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin018190xeu/themes/default/css/overrides.css" beforeDir="false" afterPath="$PROJECT_DIR$/admin018190xeu/themes/default/css/overrides.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Electon/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/assets/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Electon/modules/ps_customersignin/ps_customersignin.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/modules/ps_customersignin/ps_customersignin.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Electon/templates/_partials/footer.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/templates/_partials/footer.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Electon/templates/_partials/header.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/templates/_partials/header.tpl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Electon/templates/cms/page.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Electon/templates/cms/page.tpl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dWuHoEkCZhX0zJ2tMZ78ZfvF06" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,7 +60,9 @@
       <workItem from="1593067237176" duration="8730000" />
       <workItem from="1593151363650" duration="5852000" />
       <workItem from="1593175397038" duration="78000" />
-      <workItem from="1593415584495" duration="11323000" />
+      <workItem from="1593415584495" duration="12127000" />
+      <workItem from="1593671824105" duration="12041000" />
+      <workItem from="1593758535387" duration="13659000" />
     </task>
     <task id="LOCAL-00001" summary="Category">
       <created>1592574530688</created>
@@ -84,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593175190260</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finally source layout">
+      <created>1593432070294</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593432070294</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,10 +111,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Finally source layout" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="0" key="CommitChangelistDialog2" timestamp="1593175185174">
+    <state x="585" y="0" key="CommitChangelistDialog2" timestamp="1593432065480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593175185174" />
+    <state x="585" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593432065480" />
     <state x="797" y="398" key="Github.ShareDialog" timestamp="1592553148046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -108,14 +123,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="788" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1592553205314" />
+    <state x="775" y="438" key="NewPhpFileDialog" timestamp="1593758822466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="438" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593758822466" />
     <state x="864" y="138" key="SettingsEditor" timestamp="1593067462310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="864" y="138" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593067462310" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1593175191999">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1593432152379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593175191999" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1593432152379" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593426587219">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

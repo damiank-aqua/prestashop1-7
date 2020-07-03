@@ -30,9 +30,11 @@
 <div class="footer-container">
   <div class="container">
     <div class="row footer">
-      	{block name='hook_footer'}
-	  		{hook h='displayFooter'}
-		{/block}
+		{$html = 'http://repozytorium.aqua.net.pl/stopka'|file_get_contents}
+		{$html|unescape: "html" nofilter}
+{*      	{block name='hook_footer'}*}
+{*	  		{hook h='displayFooter'}*}
+{*		{/block}*}
     </div>      
     </div>
   </div>

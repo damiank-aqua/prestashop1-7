@@ -317,7 +317,10 @@
 #_mobile_main_menu,
 .subcategory-heading,
 #product #left-column,
-#main .page-header{
+#main .page-header,
+#main > h1,
+#order-slips-link,
+.page-my-account #content .links a:last-child{
     display: none;
 }
 /* White color */
@@ -445,4 +448,26 @@
     #header .header_logo {
         width: 15%;
     }
+}
+.footer-container, .footer-container a{
+    color: #fff;
+}
+.footer-container strong {
+    color: #bbb;
+}
+.support-person {
+    width: 100%;
+    background-color: #555;
+    color: #fff;
+    font-size: 15px;
+}
+.support-person a{
+    color: #fed641;
+    font-weight: bold;
+}
+textarea{
+    border: 1px solid #ededed;
+}
+#chat-application {
+    right: 90px !important;
 }

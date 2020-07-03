@@ -35,6 +35,9 @@
       {if $cms.id eq 3}
         {$html = 'http://regulamin.aqua.net.pl?id=rainpolska'|file_get_contents}
         {$html|unescape: "html" nofilter}
+      {elseif $cms.id eq 4}
+        {$html = 'http://repozytorium.aqua.net.pl/o-sklepie'|file_get_contents}
+        {$html|unescape: "html" nofilter}
       {else}
         {$cms.content nofilter}
       {/if}
